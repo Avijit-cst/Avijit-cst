@@ -13,10 +13,10 @@ Passionate about creating modern, responsive, and user-friendly websites. I love
 
 ## 👨‍💻 About Me
 
-- 🔭 **I’m currently working on:** Advanced frontend layouts and custom WordPress themes.
-- 🌱 **I’m currently learning:** React.js and advanced JavaScript concepts to level up my frontend game.
-- 🎯 **Focus:** Building clean, fully responsive, and highly optimized websites.
-- ⚡ **Fun Fact:** I believe that a perfect UI is a mix of logic and creativity.
+ 🔭 **I’m currently working on:** Advanced frontend layouts and custom WordPress themes.
+ 🌱 **I’m currently learning:** React.js and advanced JavaScript concepts to level up my frontend game.
+  🎯 **Focus:** Building clean, fully responsive, and highly optimized websites.
+  ⚡ **Fun Fact:** I believe that a perfect UI is a mix of logic and creativity.
 
 ---
 

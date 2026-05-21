@@ -41,12 +41,15 @@ Passionate about creating modern, responsive, and user-friendly websites. I love
 ## 💡 What I Do
 
  ✔️ **Responsive Website Design** – Making sites look flawless on all screen sizes.
+ 
  ✔️ **Landing Page Development** – High-converting and fast-loading landing pages.
+ 
  ✔️ **Business Website Development** – Professional sites tailored to business needs.
+ 
  ✔️ **WordPress Customization** – Elementor, custom widgets, and theme setup.
+ 
  ✔️ **Modern UI Design** – Translating modern UI/UX concepts into clean code.
 
----
 
 ## 📊 GitHub Stats
 

@@ -50,16 +50,6 @@ Passionate about creating modern, responsive, and user-friendly websites. I love
  
  ✔️ **Modern UI Design** – Translating modern UI/UX concepts into clean code.
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
